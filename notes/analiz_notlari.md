@@ -83,3 +83,20 @@ ortalama sepet değerini korudu → sağlıklı büyüme"
 - Boleto: %20 sipariş (Brezilya'ya özgü ödeme)
 - Voucher: düşük AOV (66 R$) → indirim kullanıcıları
 - not_defined: 3 sipariş, veri kalitesi sorunu
+## MÜŞTERİ MEMNUNİYETİ
+
+### Sorgu 1: Genel Puan
+- Ortalama: 4.0/5 ✅
+- Toplam yorum: 99,224
+
+### Sorgu 2: Puan Dağılımı
+- %57 → 5 yıldız 🟢
+- %11 → 1 yıldız 🔴
+- Mutsuz müşteriler direkt 1 veriyor!
+
+### Sorgu 3: En Düşük Kategoriler
+- office_furniture → 3.49 (en kötü)
+- fixed_telephony  → 3.68
+- bed_bath_table   → 3.89 ama 11K yorum! (büyük risk)
+- Öneri: Mobilya ve elektronik kategorilerinde
+  iyileştirme yapılmalı
