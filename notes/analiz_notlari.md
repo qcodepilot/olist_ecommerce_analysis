@@ -100,3 +100,22 @@ ortalama sepet değerini korudu → sağlıklı büyüme"
 - bed_bath_table   → 3.89 ama 11K yorum! (büyük risk)
 - Öneri: Mobilya ve elektronik kategorilerinde
   iyileştirme yapılmalı
+  ## TESLİMAT PERFORMANSI
+
+### Sorgu 1: Ortalama Teslimat Süresi
+- Gerçek teslimat: ~12.5 gün
+- Tahmini teslimat: ~24.4 gün
+- Olist erken teslim ediyor! ✅
+
+### Sorgu 2: Gecikme Oranı
+- Toplam sipariş: 96,470
+- Geciken sipariş: 7,826
+- Gecikme oranı: %8.11
+- Her 12 siparişten 1'i gecikmeli!
+
+### Sorgu 3: Gecikme vs Puan
+- Zamanında → 4.29 puan ✅
+- Gecikmeli  → 2.57 puan 🚨
+- Fark: %40 düşüş!
+- EN KRİTİK BULGU: Teslimat gecikmesi 
+  müşteri memnuniyetini %40 düşürüyor!
