@@ -119,3 +119,31 @@ ortalama sepet değerini korudu → sağlıklı büyüme"
 - Fark: %40 düşüş!
 - EN KRİTİK BULGU: Teslimat gecikmesi 
   müşteri memnuniyetini %40 düşürüyor!
+  
+  # Olist E-Commerce Data Analysis
+
+## 📌 Proje Hakkında
+Brezilya'nın en büyük e-ticaret platformu Olist'in 
+gerçek verilerini BigQuery + SQL kullanarak analiz ettim.
+
+## 🛠️ Kullanılan Teknolojiler
+- Google BigQuery
+- SQL
+- VS Code
+- GitHub
+
+## 📊 Analiz Edilen İş Vakaları
+1. Gelir Analizi
+2. Müşteri Memnuniyeti
+3. Teslimat Performansı
+
+## 🔑 Temel Bulgular
+- Toplam gelir: 16M R$ (2016-2018)
+- 2016→2017: 150x büyüme
+- Ortalama müşteri puanı: 4.0/5
+- Gecikme müşteri memnuniyetini %40 düşürüyor
+- Kredi kartı ödemelerin %76'sını oluşturuyor
+
+## 📁 Dosya Yapısı
+- sql/ → Tüm SQL sorguları
+- notes/ → Analiz notları ve bulgular
